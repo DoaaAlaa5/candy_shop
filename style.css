@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Nunito', 'sans-serif';
+    background-color: #f5d9df ;
+}
+.navbar-brand{
+    color: #EA1C2C !important;
+}
+.navbar-nav a{
+    color: white !important;
+}
+.navbar-nav a:hover{
+    color: #EA1C2C !important;
+}
+.text-uppercase span{
+    color: #EA1C2C;
+}
+p{
+    line-height: 50px;
+}
